@@ -1,0 +1,22 @@
+*****************************************
+| NOTAS DE PROGRAMACION                 |
+| Author: Ing. Mauricio Baquero Soto.   |
+|        codigo200.com                  |
+*****************************************
+
+LISTADO DE TABLAS LOCALIZADAS
+=============================
+
+inv_linea
+inv_proveedores
+inv_productos
+inv_bodegas
+inv_servicios
+
+LISTADO DE MANUALES DE PLUGINS INSTALADOS
+=========================================
+
+https://laravel-excel.com/
+https://carbon.nesbot.com/
+https://image.intervention.io/v2
+
