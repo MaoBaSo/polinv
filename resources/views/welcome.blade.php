@@ -52,7 +52,7 @@
 									<div class="col-sm-12 col-xs-12">
 										<img class="" src="{{asset('img/LogoJP400x81.png')}}" alt="JPEX"/>
 										<div class="mb-30">
-											<h5 class="text-center text-muted mb-10">Sistema Gestión Inventarios POLINV PRUEBA</h5>
+											<h5 class="text-center text-muted mb-10">Sistema Gestión POLINV</h5>
 										</div>	
 										<div class="form-wrap text-center">
 											@auth
